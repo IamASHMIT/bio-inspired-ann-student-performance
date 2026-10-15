@@ -1,5 +1,5 @@
 # Problem 14: Student Performance Prediction using an Artificial Neural Network
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/bio-inspired-ann-student-performance/blob/main/Problem14_Student_Performance_ANN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/<your-username>/bio-inspired-ann-student-performance/blob/main/Problem14_Student_Performance_ANN.ipynb](https://colab.research.google.com/drive/1l0hCaphfXd9qwCbDTgk-Gi9wIR-72L7O?usp=sharing))
 
 **Name:** Ashmit Bhadoria  
 **Register No.:** RA2311003010286  
